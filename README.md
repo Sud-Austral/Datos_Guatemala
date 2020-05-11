@@ -13,5 +13,5 @@ Carpata Datacovidgt:
 *Farmacias GT.xlsx* https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/Farmacias%20GT.xlsx Farmacias habilitadas, organizadas por departamento.
 *LOCALIZACION GT.xlsx* https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/LOCALIZACION%20GT.xlsx División de departamentos y sus municipios.
 *Salud GT.xlsx* https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/Salud%20GT.xlsx Hospitales, Clinicas y Centros de salud.
-
+hola
 
