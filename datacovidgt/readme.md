@@ -1,10 +1,3 @@
-# Datos_Guatemala
-
-Carpeta Twitter: [Tweet.csv](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/Twitter/Tweet.csv) Documento con tweets de personas de interes.
-
-Carpeta Bing/New: [Guatemala.csv](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/bing/news/Guatemala.csv) Tweets extraidos de la ejecución del repositorio logica guatemala.
-
-Carpata Datacovidgt: 
 [00 DATACOVID Trabajo_GT.xlsx](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/00%20DATACOVID%20Trabajo_GT.xlsx) Información sobre Honduras.                               
 
 [DATACOVID_GT_CUARENTENA.xlsx](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/00%20DATACOVID_GT_CUARENTENA.xlsx) División politica de Guatemala. 
@@ -19,5 +12,3 @@ Carpata Datacovidgt:
 [LOCALIZACION GT.xlsx](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/LOCALIZACION%20GT.xlsx) División de departamentos y sus municipios.
 
 [Salud GT.xlsx](https://github.com/Sud-Austral/Datos_Guatemala/blob/master/datacovidgt/Salud%20GT.xlsx) Hospitales, Clinicas y Centros de salud.
-
-
