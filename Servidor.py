@@ -258,7 +258,8 @@ def guardarDataCovid():
     #urllib.request.urlretrieve(url, "../Datos_Guatemala/datacovidgt/Casos GT v1.xlsx")
     urllib.request.urlretrieve(url, "datacovidgt/LOCALIZACION GT.xlsx")
 
-    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62459&parId=9F999E057AD8C646!62453&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    #url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!62459&parId=9F999E057AD8C646!62453&authkey=!AkePW7UW1KXQkMM&app=Excel"
+    url = "https://onedrive.live.com/download?cid=9f999e057ad8c646&page=view&resid=9F999E057AD8C646!93255&parId=9F999E057AD8C646!62453&authkey=!AkePW7UW1KXQkMM&app=Excel"
     #urllib.request.urlretrieve(url, "../Datos_Guatemala/datacovidgt/LOCALIZACION GT.xlsx")
     urllib.request.urlretrieve(url, "datacovidgt/Casos GT v1.xlsx")
     #Salud GT.xlsx
